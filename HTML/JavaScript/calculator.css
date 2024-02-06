@@ -1,0 +1,44 @@
+.mainbox {
+    width: 500px;
+    height: 600px;
+    background-color: gray;
+   margin-left: 400px;
+}
+
+
+
+#displayscreen {
+    width: 80%;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 47px;
+    pointer-events: none;
+}
+
+.clear{
+    margin-left: 1px;
+}
+
+.row{
+    margin-left: 2px;
+}
+
+
+
+.row1{
+    margin-left: 1px;
+}
+
+
+.row2{
+    margin-left: 0px;
+}
+
+.btn{
+    width: 60px;
+    height: 60px;
+    margin-left: 40px;
+    margin-top: 30px;
+
+}
+
